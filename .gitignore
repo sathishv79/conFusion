@@ -1,0 +1,19 @@
+/target/
+*/logs/*
+/.classpath
+/*/.classpath
+/.project
+/*/.project
+/.settings/*
+/*/.settings/*
+/*/bin
+*.releaseBackup
+
+#Ignore IntelliJ files
+*.iml
+*.iws
+*.ipr
+.idea
+*.checkstyle
+*.checkstyle
+*.DS_Store
